@@ -11,6 +11,6 @@ What will this change in the code line?
 <head>
 </head>
 <body>
-  <a href="https://twitter.com/neiljacob23">Hyperlink to the Future</a>
+  <a href="https://twitter.com/neiljacob23" target="_blank">Hyperlink to the Future</a>
 </body>
 </html>
