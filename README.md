@@ -7,10 +7,11 @@ What will this change in the code line?
 
 <!--Lets work on something fun together! HTML and CSS project-->
 
+<!DOCTYPE html>
 <html>
 <head>
 </head>
 <body>
-  <a href="https://twitter.com/neiljacob23">Hyperlink to the Future</a>
+  <a href="https://twitter.com/neiljacob23" target="_blank">Hyperlink to the Future</a>
 </body>
 </html>
