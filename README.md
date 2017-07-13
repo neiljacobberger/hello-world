@@ -7,6 +7,7 @@ What will this change in the code line?
 
 <!--Lets work on something fun together! HTML and CSS project-->
 
+<!DOCTYPE html>
 <html>
 <head>
 </head>
